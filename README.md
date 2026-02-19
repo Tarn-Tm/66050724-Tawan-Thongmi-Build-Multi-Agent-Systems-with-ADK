@@ -1,5 +1,4 @@
 # 66050724-Tawan-Thongmi-Build-Multi-Agent-Systems-with-ADK
-
 import os
 import logging
 import google.cloud.logging
